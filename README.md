@@ -11,6 +11,7 @@ Yukarıda bahsedilmiş olan tüm kalemler ve ilgili bankaların bu kalemlere ili
 - Sermaye Yeterlilik Oranı: Sermaye Yeterlilik Oranı  bir bankanın finansal sağlığını ve risklere karşı dayanıklılığını değerlendiren kritik bir finansal göstergedir. Bu oran, bankanın sahip olduğu sermaye miktarının, üstlendiği risklerle karşılaştırılmasını sağlar. Sermaye Yeterlilik oranı, bir bankanın kredi, piyasa ve operasyonel riskler gibi risklere karşı ne kadar güvenli bir sermaye tamponuna sahip olduğunu gösterir.
 
 Bilanço verilerinden çekilmiş bu 2 kalem hem bankanın faaliyetlerinin karlılığı, finansal sağlığı ve risklere karşı dayanaklılığı belirttiği için analize eklenmiştir.
+## Finansal Tablo
 
 ![Bankaların Net Kar ve Sermaye Yeterlilik Oranı](assets/finansal_tablo.png)
 
@@ -24,6 +25,8 @@ Halkbank grafiğine bakıldığında ise 2023 yılının başına kadar Net Kar 
 QNB Finansbak grafikleri incelendiğinde Net Kar açısından istikrarlı bir grafik gözlenmektedir. Diğer bankalarda gözüken sert düşüşler veya yükselişler yaşanmamıştır. Zaman içinde istisnalar olsa da yükselen Net Kar 2024 yılında düşüşe geçmiştir. Sermaye Yeterlilik Oranı ise Net Kar grafiği ile karşılaştırıldığında oldukça farklı bir grafiktir. Düzenli olarak düşüşte olan bu oran 2023'ün ilk aylarında en düşük seviyesini görmüştür. Daha sonraki dönemlerde net bir yükselişe sahip olsa da 2023'ün son aylarından itibaren tekrar düşüşe geçmiştir.
 
 Yapı Kredi Net Kar olarak zaman içinde hep yükselişte olmuştur. Ancak 2023'ün sonlarından itibaren ciddi bir düşüşe geçmiştir.Sermaye Yeterlilik Oranı ise zaman içinde dalgalı bir şekilde değişmiştir. 2023'ün son aylarında keskin bir düşüş yaşayarak 2024 Haziran'da en düşük seviyesi olan %15' ulaşmıştır.
+
+## Bilanço
 
 ![Akbank Bilanço](assets/akbank_bilanço.png)
 
@@ -54,6 +57,20 @@ Satış Maliyetleri banka tarafından sağlanan hizmetlerin ve ürünlerin maliy
 QNB Finansbank Bilanço grafiklerine bakıldığında Net Faiz Gelir/Gideri dalgalı bir şekilde değişmiştir. 2022'ye kadar stabil olsa da 2022 yılıyla artışa geçse de yıl sonuyla itibariyle ciddi bir düşüşe geçmiştir. Daha sonraki dönemlerde 2023 sonunda azalsa da 2024 itibariyle artmıştır. Net Ücret ve Komisyon Gelirleri/Giderleri de benzer bir grafiğe sahiptir. 2023 yılı sonuna kadar artmıştır. 2023 yılının sonunda düşüşe geçse de 2024 yılı itibariyle artışa geçmiş ve zirve değerine ulaşmıştır. Mevduat grafiğine bakıldığında ise stabil bir şekilde artış gözlemlenmektedir.
 
 ![Yapı Kredi Bilanço](assets/Yapı_Kredi_bilanço.png)
+
+Yapı Kredi grafiklerine bakıldığında Net Faiz Gelir/Gideri verisinde 2 kere ciddi artış gözlenmiştir.Bu artışlar 2022 yılının ilk çeyreğinde ve 2023'ün ilk çeyreğinde yaşanmıştır. 2023'ün son çeyreğinde düşüş yaşansa da 2024 yılıyla beraber tekrar artışa geçmiş ve zirve değerine yaklaşmıştır.
+
+Net Ücret ve Komisyon Gelirleri/Giderleri 2023 son çeyreğine kadar ciddi bir artış göstermiştir.Son çeyrek de gelirler azalsa da 2024 yılında ciddi bir artış gözlemlenmiştir.
+
+Mevduat diğer bankalarda olduğu gibi stabil bir şekilde artmıştır.
+
+## Hisse Değerleri
+
+Bu bölümde ise yukarıda analizi yapılmış bankaların hisse değerlerine ait grafikler paylaşılacaktır. 
+
+![Hisse Senedi](assets\hisse_senedi.png)
+
+
 
 
 
