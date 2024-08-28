@@ -35,7 +35,16 @@ Mevduat, bir banka için en önemli finansal kaynaklardan biridir ve bankanın t
 
 ![Halkbank Bilanço](assets/halkbank_bilanço.png)
 
-Halkbank grafiklerine bakıldığında 
+Halkbank grafiklerine bakıldığında Net Faiz Gelir/Gideri 2022 yılında önemli bir şekilde artmış ve en yüksek seviyesine ulaşmıştır.Yıl sonuyla beraber ciddi bir şekilde düşüş yaşamıştır. Bu süreçten sonra biraz daha dalgalı bir şekilde Net Faiz Gelir/Gideri değişime uğramıştır.
+
+Net Ücret ve Komisyon Gelirleri/Giderleri de dalgalı bir grafiğe sahiptir.2023 yılında ciddi bir yükselişe geçse de yıl sonunda ciddi bir düşüş yaşamıştır. Ancak 2024 yılı itibariyle tekrar artmıştır.
+
+Mevduat grafiği Akbank ile oldukça benzerdir. Yılları içerisinde stabil bir şekilde artmıştır.
+
+![İş Yatırım Bilanço](assets/işyat_bilanço.png)
+
+
+
 
 
 
