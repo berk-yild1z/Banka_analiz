@@ -12,7 +12,8 @@ Yukarıda bahsedilmiş olan tüm kalemler ve ilgili bankaların bu kalemlere ili
 
 Bilanço verilerinden çekilmiş bu 2 kalem hem bankanın faaliyetlerinin karlılığı, finansal sağlığı ve risklere karşı dayanaklılığı belirttiği için analize eklenmiştir.
 
-![Bankaların Net Kar ve Sermaye Yeterlilik Oranı](BANKA_ANALIZ/finansal_tablo_veri_çekme.ipynbassets\bilanço_akbank.png)
+![Bankaların Net Kar ve Sermaye Yeterlilik Oranı](Banka_analiz/finansal_tablo_veri_çekme.ipynbassets\bilanço_akbank.png)
+
 
 
 
