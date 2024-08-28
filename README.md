@@ -13,7 +13,7 @@ Yukarıda bahsedilmiş olan tüm kalemler ve ilgili bankaların bu kalemlere ili
 Bilanço verilerinden çekilmiş bu 2 kalem hem bankanın faaliyetlerinin karlılığı, finansal sağlığı ve risklere karşı dayanaklılığı belirttiği için analize eklenmiştir.
 ## Finansal Tablo
 
-![Bankaların Net Kar ve Sermaye Yeterlilik Oranı](assets/finansal_tablo.png)
+![Bankaların Net Kar ve Sermaye Yeterlilik Oranı](Grafikler/finansal_tablo.png)
 
 Yukarıda verilmiş olan grafikler sol kısımda Net Kar, sağ kısımda ise Sermaye Yeterlilik Oranı yer almaktadır. Veriler 2020 Temmuz ile 2024 Temmuz arasındaki aralığa aittir. Akbank verisine bakıldığında 2022 yıllarına kadar net kar değerlerinde stabil bir artış görülmektedir. Ondan sonraki süreçlerde ise grafik stabil değildir. 2023 yılında sert bir düşüş yaşansa da sonraki dönemlerde artışa geçmiştir ancak 2023'ün son aylarıyla beraber Akbank'ın Net Kar'ı düşüşe geçmiştir.Sermaye yeterlilik oranı grafiğine bakıldığında ise daha dalgalı bir grafik olduğu gözlemlenmektedir.2022 Temmuz ayına kadar dalgalı bir görünüme sahip olan grafik, bu tarihten sonra yükselişe geçmiştir. Ancak 2024 yılı başından itibaren Sermaye Yeterlilik Oranı istikrarlı olarak düşmektedir. İki grafiği karşılaştırdığımızda, 2023 yılı sonundan itibaren hem Net Kar hem de Sermaye Yeterlilik Oranı'nda düşüşler görünmektedir. Bu durum da Akbank'ı riskler karşısında daha zayıf hale getirmiş ve Akbank bu dönemlerde yapmış olduğu faaliyetlerden daha az kar etmiştir.
 
@@ -28,7 +28,7 @@ Yapı Kredi Net Kar olarak zaman içinde hep yükselişte olmuştur. Ancak 2023'
 
 ## Bilanço
 
-![Akbank Bilanço](assets/akbank_bilanço.png)
+![Akbank Bilanço](Grafikler/akbank_bilanço.png)
 
 Yukarıdaki grafikte Akbank'ın Net Faiz Gelir/Gideri, Net Ücret ve Komisyon Gelirler/Giderleri ve Mevduat ile ilgili verileri görselleştirilmiştir.Net Faiz Gelir/Gideri, bir bankanın temel kârlılık göstergelerinden biridir ve bankanın faiz gelirleri ile faiz giderleri arasındaki farkı ifade eder. Bu gösterge, bankanın faizle ilgili faaliyetlerinden elde ettiği kârı veya katlandığı maliyeti ortaya koyar ve bankanın ana işlevlerinden biri olan kredi verme ve mevduat toplama faaliyetlerinin etkinliğini değerlendirir. 2022 yılının başına kadar stabil devam eden Net Faiz Gelir/Gideri 2022 yılının sonuna kadar keskin bir şekilde artmıştır. Sonraki dönemlerde ise keskin bir düşüş yaşanmıştır. Daha sonra toparlansa da 2023'ün son çeyreğinde tekrar düşüşe geçmiştir. 
 
@@ -36,7 +36,7 @@ Net Ücret ve Komisyon Gelirleri/Giderleri, bir bankanın sunduğu hizmetlerden 
 
 Mevduat, bir banka için en önemli finansal kaynaklardan biridir ve bankanın temel fonlama kaynağını oluşturur. Mevduat, müşterilerin bankaya yatırdığı parayı ifade eder ve bu para bankanın çeşitli finansal faaliyetlerini yürütmek için kullandığı ana kaynaktır. Mevduat, bankanın büyümesi, kredi verme kapasitesi, kârlılığı ve genel mali sağlığı açısından kritik öneme sahiptir. Grafiğe bakıldığında mevduat stabil bir şekilde artmıştır.
 
-![Halkbank Bilanço](assets/halkbank_bilanço.png)
+![Halkbank Bilanço](Grafikler/halkbank_bilanço.png)
 
 Halkbank grafiklerine bakıldığında Net Faiz Gelir/Gideri 2022 yılında önemli bir şekilde artmış ve en yüksek seviyesine ulaşmıştır.Yıl sonuyla beraber ciddi bir şekilde düşüş yaşamıştır. Bu süreçten sonra biraz daha dalgalı bir şekilde Net Faiz Gelir/Gideri değişime uğramıştır.
 
@@ -44,7 +44,7 @@ Net Ücret ve Komisyon Gelirleri/Giderleri de dalgalı bir grafiğe sahiptir.202
 
 Mevduat grafiği Akbank ile oldukça benzerdir. Yılları içerisinde stabil bir şekilde artmıştır.
 
-![İş Yatırım Bilanço](assets/işyat_bilanço.png)
+![İş Yatırım Bilanço](Grafikler/işyat_bilanço.png)
 
 İş Yatırım Bilanço analizi için Nakit ve Nakit Benzerleri, Satış Gelirleri ve Satışların Maliyetleri kullanılmıştır. Nakit ve Nakit Benzerleri bankanın günlük işlemleri finanse edebilme kapasitesini ve acil durumlar için likidite sağlamadaki yeteneğini gösterir. Nakit ve Nakit benzerleri değerleri zaman içerisinde dalgalı bir şekilde değişmiştir. Ancak 3 kere ciddi değişimler yaşanmıştır. İlk olarak 2019 yılının sonlarından itibaren ciddi bir düşüş yaşanmıştır ancak 2020 yılıyla birlikte ciddi bir artış yaşamıştır. Son olarak ise 2023 yılının son çeyreğiyle birlikte ciddi bir artışa geçmiştir.
 
@@ -52,11 +52,11 @@ Satış gelirleri, genellikle bu tür faaliyetlerin sonucunda elde edilen toplam
 
 Satış Maliyetleri banka tarafından sağlanan hizmetlerin ve ürünlerin maliyetlerini ifade eder. Yıllar içerisindeki değişime bakıldığında satış maliyetleri artış göstermiştir. Ancak 2024 itibariyle birlikte ciddi bir düşüş yaşanmıştır.
 
-![QNB Finansbank Bilanço](assets/QNB_Finansbank_bilanço.png)
+![QNB Finansbank Bilanço](Grafikler/QNB_Finansbank_bilanço.png)
 
 QNB Finansbank Bilanço grafiklerine bakıldığında Net Faiz Gelir/Gideri dalgalı bir şekilde değişmiştir. 2022'ye kadar stabil olsa da 2022 yılıyla artışa geçse de yıl sonuyla itibariyle ciddi bir düşüşe geçmiştir. Daha sonraki dönemlerde 2023 sonunda azalsa da 2024 itibariyle artmıştır. Net Ücret ve Komisyon Gelirleri/Giderleri de benzer bir grafiğe sahiptir. 2023 yılı sonuna kadar artmıştır. 2023 yılının sonunda düşüşe geçse de 2024 yılı itibariyle artışa geçmiş ve zirve değerine ulaşmıştır. Mevduat grafiğine bakıldığında ise stabil bir şekilde artış gözlemlenmektedir.
 
-![Yapı Kredi Bilanço](assets/Yapı_Kredi_bilanço.png)
+![Yapı Kredi Bilanço](Grafikler/Yapı_Kredi_bilanço.png)
 
 Yapı Kredi grafiklerine bakıldığında Net Faiz Gelir/Gideri verisinde 2 kere ciddi artış gözlenmiştir.Bu artışlar 2022 yılının ilk çeyreğinde ve 2023'ün ilk çeyreğinde yaşanmıştır. 2023'ün son çeyreğinde düşüş yaşansa da 2024 yılıyla beraber tekrar artışa geçmiş ve zirve değerine yaklaşmıştır.
 
@@ -66,19 +66,17 @@ Mevduat diğer bankalarda olduğu gibi stabil bir şekilde artmıştır.
 
 ## Hisse Değerleri
 
-Bu bölümde ise yukarıda analizi yapılmış bankaların hisse değerlerine ait grafikler paylaşılacaktır. 
+Bu bölümde ise yukarıda analizi yapılmış bankaların hisse değerlerine ait grafikler paylaşılacaktır. İlgili bankaların kapanış değerlerinin dolar olarak değişimleri aşağıda verilmiştir.
 
-![Hisse Senedi](assets/hisse_senedi.png)
+![Hisse Senedi](Grafikler/hisse_senedi.png)
 
+Akbank'ın hisse değerlerine bakıldığında hisse değerleri dolar olarak çok ciddi bir değişim göstermemiştir. Bilanço ve finansal tablo verilerine bakılıdğında dalgalanma gözlemlense de hisse değerlerine bu yansımamıştır.
 
+Halkbank grafiği incelendiğinde ise 2022 yılının ortalarında ciddi bir artış gözlemlenmiştir ancak daha sonra bu artış düşüş ile nötrlenmiştir.
 
+İş Yatırım hisse değerlerine bakıldığında ise 2023'te ciddi bir artış görülmüştür. Bu periyot dışında ise stabil bir hisse değeri gözlenmiştir.
 
+QNB Finansbank 2023 yılına kadar sabit kalsa da 2023'ten itibaren ciddi bir artış gözlenmiştir.
 
-
-
-
-
-
-
-
+Yapı Kredi ise genel olarak stabil bir hisse değerine sahip olmuş olup hisse değerinde ciddi bir değişim yaşanmamıştır.
 
