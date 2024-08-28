@@ -51,6 +51,16 @@ Satış Maliyetleri banka tarafından sağlanan hizmetlerin ve ürünlerin maliy
 
 ![QNB Finansbank Bilanço](assets/QNB_Finansbank_bilanço.png)
 
+QNB Finansbank Bilanço grafiklerine bakıldığında Net Faiz Gelir/Gideri dalgalı bir şekilde değişmiştir. 2022'ye kadar stabil olsa da 2022 yılıyla artışa geçse de yıl sonuyla itibariyle ciddi bir düşüşe geçmiştir. Daha sonraki dönemlerde 2023 sonunda azalsa da 2024 itibariyle artmıştır. Net Ücret ve Komisyon Gelirleri/Giderleri de benzer bir grafiğe sahiptir. 2023 yılı sonuna kadar artmıştır. 2023 yılının sonunda düşüşe geçse de 2024 yılı itibariyle artışa geçmiş ve zirve değerine ulaşmıştır. Mevduat grafiğine bakıldığında ise stabil bir şekilde artış gözlemlenmektedir.
+
+![Yapı Kredi Bilanço](assets/Yapı_Kredi_bilanço.png)
+
+
+
+
+
+
+
 
 
 
