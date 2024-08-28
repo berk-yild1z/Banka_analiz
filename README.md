@@ -43,6 +43,13 @@ Mevduat grafiği Akbank ile oldukça benzerdir. Yılları içerisinde stabil bir
 
 ![İş Yatırım Bilanço](assets/işyat_bilanço.png)
 
+İş Yatırım Bilanço analizi için Nakit ve Nakit Benzerleri, Satış Gelirleri ve Satışların Maliyetleri kullanılmıştır. Nakit ve Nakit Benzerleri bankanın günlük işlemleri finanse edebilme kapasitesini ve acil durumlar için likidite sağlamadaki yeteneğini gösterir. Nakit ve Nakit benzerleri değerleri zaman içerisinde dalgalı bir şekilde değişmiştir. Ancak 3 kere ciddi değişimler yaşanmıştır. İlk olarak 2019 yılının sonlarından itibaren ciddi bir düşüş yaşanmıştır ancak 2020 yılıyla birlikte ciddi bir artış yaşamıştır. Son olarak ise 2023 yılının son çeyreğiyle birlikte ciddi bir artışa geçmiştir.
+
+Satış gelirleri, genellikle bu tür faaliyetlerin sonucunda elde edilen toplam gelirleri gösterir ve bankanın finansal performansını değerlendirmede önemli bir göstergedir. İş Yatırım satış gelirleri zaman içinde sürekli artı ya da eksi yönde eğilim göstermemiştir. Bu tarihler aralığında 2 kere ciddi artış göstermiştir. İlki 2022 yılıyla diğeri ise 2023 yılıyla gerçekleşmiştir. Ancak 2024 itibariyle ciddi bir düşüş yaşanmıştır.
+
+Satış Maliyetleri banka tarafından sağlanan hizmetlerin ve ürünlerin maliyetlerini ifade eder. Yıllar içerisindeki değişime bakıldığında satış maliyetleri artış göstermiştir. Ancak 2024 itibariyle birlikte ciddi bir düşüş yaşanmıştır.
+
+![QNB Finansbank Bilanço](assets/QNB_Finansbank_bilanço.png)
 
 
 
