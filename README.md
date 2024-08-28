@@ -21,3 +21,4 @@ Bilanço verilerinden çekilmiş bu 2 kalem hem bankanın faaliyetlerinin karlı
 
 
 
+
