@@ -68,7 +68,7 @@ Mevduat diğer bankalarda olduğu gibi stabil bir şekilde artmıştır.
 
 Bu bölümde ise yukarıda analizi yapılmış bankaların hisse değerlerine ait grafikler paylaşılacaktır. 
 
-![Hisse Senedi](assets\hisse_senedi.png)
+![Hisse Senedi](assets/hisse_senedi.png)
 
 
 
