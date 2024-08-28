@@ -27,6 +27,15 @@ Yapı Kredi Net Kar olarak zaman içinde hep yükselişte olmuştur. Ancak 2023'
 
 ![Akbank Bilanço](assets/akbank_bilanço.png)
 
+Yukarıdaki grafikte Akbank'ın Net Faiz Gelir/Gideri, Net Ücret ve Komisyon Gelirler/Giderleri ve Mevduat ile ilgili verileri görselleştirilmiştir.Net Faiz Gelir/Gideri, bir bankanın temel kârlılık göstergelerinden biridir ve bankanın faiz gelirleri ile faiz giderleri arasındaki farkı ifade eder. Bu gösterge, bankanın faizle ilgili faaliyetlerinden elde ettiği kârı veya katlandığı maliyeti ortaya koyar ve bankanın ana işlevlerinden biri olan kredi verme ve mevduat toplama faaliyetlerinin etkinliğini değerlendirir. 2022 yılının başına kadar stabil devam eden Net Faiz Gelir/Gideri 2022 yılının sonuna kadar keskin bir şekilde artmıştır. Sonraki dönemlerde ise keskin bir düşüş yaşanmıştır. Daha sonra toparlansa da 2023'ün son çeyreğinde tekrar düşüşe geçmiştir. 
+
+Net Ücret ve Komisyon Gelirleri/Giderleri, bir bankanın sunduğu hizmetlerden elde ettiği ücret ve komisyonlar ile bu hizmetler için yaptığı ödemeler arasındaki farkı ifade eder. Bu gelir/gider kalemi, bankaların faiz dışı gelirlerini gösterir ve bankanın kârlılığına önemli katkıda bulunur. Grafiğe bakıldığında 2023 yılına kadar stabil ilerlerken 2023'ün yılın sonuna kadar ciddi bir şekilde artmıştır. Sonraki dönemde azalsa da 2024 yılı ilk çeyreğiyle birlikte tekrar artmıştır.
+
+Mevduat, bir banka için en önemli finansal kaynaklardan biridir ve bankanın temel fonlama kaynağını oluşturur. Mevduat, müşterilerin bankaya yatırdığı parayı ifade eder ve bu para bankanın çeşitli finansal faaliyetlerini yürütmek için kullandığı ana kaynaktır. Mevduat, bankanın büyümesi, kredi verme kapasitesi, kârlılığı ve genel mali sağlığı açısından kritik öneme sahiptir. Grafiğe bakıldığında mevduat stabil bir şekilde artmıştır.
+
+![Halkbank Bilanço](assets/halkbank_bilanço.png)
+
+Halkbank grafiklerine bakıldığında 
 
 
 
